@@ -29,7 +29,7 @@ hysteria2://89451f48-2b2e-4f8b-8f64-edef856ba484@sb1.oomz.ru:30000?insecure=1&sn
 hysteria2://89451f48-2b2e-4f8b-8f64-edef856ba484@sb2.oomz.ru:30000?insecure=1&sni=bing.com#9%7C%E2%9C%A823%40oneclickvpnkeys
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%231
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%231
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%234
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#9%2C10%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hysteria2://a1996dcf-0717-4dea-a6c1-9abeace8acf1@blogtest.ghazatehran.ir:4431?insecure=1&sni=blogtest.ghazatehran.ir&obfs=salamander&obfs-password=2wsx#9%2C10%7Cr%E2%99%A1ya%20%232
 hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#9%7C%40NoForcedheaven
